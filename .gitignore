@@ -1,0 +1,6 @@
+*.pyc
+example_scheduler.egg-info
+build
+dist
+rpm-build
+rpms
